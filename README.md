@@ -85,7 +85,7 @@ Each email contains four sections:
 
 ## Important Notes
 
-- AssemblyAI free tier provides $50/month — Gooaye runs ~2 episodes/week at ~50 min each, costing roughly $8/month
+- AssemblyAI free tier provides $50 free credit — Gooaye runs ~2 episodes/week at ~50 min each, costing roughly $8/month
 - The `log` sheet tracks each job's status: `processing` → `done`
 - If transcription fails, the status column will show `error: ...`
 
