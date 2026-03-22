@@ -1,4 +1,4 @@
-# gooaye-automated-email-summary
+# Gooaye (股癌) Automated Email Summary 
 Automatically fetches the latest episode of the Gooaye (股癌) Podcast, transcribes it using AI speech-to-text, analyzes it with a large language model, and delivers an institutional-grade financial briefing to your inbox.
 
 ---
