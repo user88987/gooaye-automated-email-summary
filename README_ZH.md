@@ -2,8 +2,6 @@
 
 自動抓取股癌 Podcast 最新一集，透過 AI 語音轉文字與大型語言模型分析，產出法人級財經晨報並寄送到你的信箱。
 
-[English Version](README_EN.md)
-
 ---
 
 ## 運作流程
