@@ -88,8 +88,7 @@ var CONFIG = {
 
 ## 注意事項
 
-- ⚠️ **API Key 請勿上傳到公開的 GitHub repository**
-- AssemblyAI 免費額度每月約 $50，股癌一週兩集（每集約 50 分鐘）每月約消耗 $8，綽綽有餘
+- AssemblyAI 免費額度約 $50，股癌一週兩集（每集約 50 分鐘）每月約消耗 $8
 - Google Sheet 的 `log` 工作表會記錄每次任務狀態：`processing` → `done`
 - 若轉錄失敗，狀態欄會顯示 `error: ...` 錯誤訊息
 
